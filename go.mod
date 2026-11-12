@@ -1,4 +1,4 @@
-module github.com/libdns/hostup
+module github.com/elloot/hostup-libdns
 
 go 1.18
 

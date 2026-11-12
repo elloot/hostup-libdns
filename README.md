@@ -1,7 +1,7 @@
 Hostup for [`libdns`](https://github.com/libdns/libdns)
 =======================
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/libdns/hostup.svg)](https://pkg.go.dev/github.com/libdns/hostup)
+[![Go Reference](https://pkg.go.dev/badge/github.com/elloot/hostup-libdns.svg)](https://pkg.go.dev/github.com/elloot/hostup-libdns)
 
 This package implements the [libdns interfaces](https://github.com/libdns/libdns) for [Hostup](https://hostup.se) (hostup.se), allowing you to manage DNS records through the public [Hostup API v2](https://developer.hostup.se/).
 
@@ -28,7 +28,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/libdns/hostup"
+	"github.com/elloot/hostup-libdns"
 	"github.com/libdns/libdns"
 )
 
